@@ -1,6 +1,6 @@
 Name:		texlive-heros-otf
 Version:	64695
-Release:	1
+Release:	2
 Summary:	Using the OpenType fonts TeX Gyre Heros>
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/heros-otf
