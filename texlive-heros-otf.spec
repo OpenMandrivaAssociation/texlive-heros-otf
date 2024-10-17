@@ -3,7 +3,7 @@ Version:	64695
 Release:	2
 Summary:	Using the OpenType fonts TeX Gyre Heros>
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/heros-otf
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/heros-otf
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/heros-otf.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/heros-otf.doc.r%{version}.tar.xz
